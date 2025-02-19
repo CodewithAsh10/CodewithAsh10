@@ -34,6 +34,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodewithAsh10&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodewithAsh10&theme=react-dark&hide_border=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
