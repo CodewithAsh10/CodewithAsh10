@@ -18,9 +18,7 @@
 🌱 Pursuing Computer Science Engineering<br>
 🧑‍💻 LinkedIn https://www.linkedin.com/in/arsh-bakshi-2b50a0324<br>
 🤝 Let's Connect !<br>
-<br>
-<img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
-<img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arsh-bakshi-2b50a0324) 
