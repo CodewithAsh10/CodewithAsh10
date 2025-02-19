@@ -29,7 +29,7 @@
 - **Web Development**: HTML,CSS
 - **Version Control**: GitHub
 - **Others**: Postman API,MATLAB
-- **DBMN**: MySql
+- **DBMS**: MySql
 
 # 💻 Language and Tools:
 ![My Skills](https://skillicons.dev/icons?i=vscode,cpp,py,html,css,matlab,postman,mysql)
