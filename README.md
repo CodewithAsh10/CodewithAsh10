@@ -1,3 +1,18 @@
+<h1 align="center"><b>Hi, I'm Arsh Bakshi</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Welcome Banner">
+</p>
+
+<p align="center" style="font-size: 30px;">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Verdana&color=cyan&size=50&center=true&vCenter=true&width=1200&height=100&lines=Welcome+to+My+Github+Profile!!;Explore+🔎+and+Collaborate+with+me+⚙">
+  </a>
+</p>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> 
 # 💫 About Me:
 👋 Hi, I’m Arsh Bakshi @CodewithAsh10<br>🔭 I’m currently a First-year B-Tech Student at VIT Bhopal.<br>🌱 Pursuing Computer Science Engineering<br>🧑‍💻 LinkedIn https://www.linkedin.com/in/arsh-bakshi-2b50a0324<br>🤝 Let's Connect !<br>
 
