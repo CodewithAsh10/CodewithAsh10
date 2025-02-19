@@ -18,17 +18,8 @@
 🌱 Pursuing Computer Science Engineering<br>
 🧑‍💻 LinkedIn https://www.linkedin.com/in/arsh-bakshi-2b50a0324<br>
 🤝 Let's Connect !<br>
-
-## My Badges 😊
-<div style='display:flex; align-items:center; gap: 10px;' align='left'>
-  <img src="./Resources/Postman API Fundamentals Student Expert.png" width="100px" height="100px" />
-  <img src="./Resources/5.png" width="100px" height="100px" />
-  <img src="./Resources/1.png" width="100px" height="100px" />
-  <img src="./Resources/2.png" width="100px" height="100px" />
-  <img src="./Resources/4.png" width="100px" height="100px" />
- <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/8.png" width="100px" height="100px" /> 
-</div>
 <br>
+<img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 <img src="./Resources/Dynamic_bar.gif" width="1100" height="10" alt="End">
 
 ## 🌐 Socials:
