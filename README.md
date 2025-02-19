@@ -20,8 +20,8 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arsh-bakshi-2b50a0324) 
 
-# 💻 Tech Stack:
-![My Skills](https://skillicons.dev/icons?i=py,html,css,matlab,postman,mysql)
+# 💻 Language and Tools:
+![My Skills](https://skillicons.dev/icons?i=vscode,cpp,py,html,css,matlab,postman,mysql)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=CodewithAsh10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=CodewithAsh10&theme=tokyonight&hide_border=false)<br/>
