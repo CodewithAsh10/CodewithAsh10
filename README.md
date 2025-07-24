@@ -40,6 +40,7 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=CodewithAsh10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithAsh10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodewithAsh10&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
