@@ -35,7 +35,7 @@
 ![My Skills](https://skillicons.dev/icons?i=vscode,cpp,py,html,css,matlab,postman,mysql)
 
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=CodewithAsh10&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=CodewithAsh10&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithAsh10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
