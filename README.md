@@ -27,7 +27,6 @@
 ## 🛠️ Technologies & Tools
 - **Languages**: C++,Python
 - **Web Development**: HTML,CSS,JS
-- **Version Control**: GitHub
 - **Others**: Postman API,MATLAB
 - **DBMS**: MySql
 
