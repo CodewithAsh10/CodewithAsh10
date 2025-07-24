@@ -15,7 +15,7 @@
     
 # 💫 About Me:
 👋 Hi, I’m Arsh Bakshi @CodewithAsh10<br>
-🔭 I’m currently a First-year B-Tech Student at VIT Bhopal.<br>
+🔭 I’m currently a Second-year B-Tech Student at VIT Bhopal.<br>
 🌱 Pursuing Computer Science Engineering<br>
 🧑‍💻 LinkedIn https://www.linkedin.com/in/arsh-bakshi-2b50a0324<br>
 🤝 Let's Connect !<br>
