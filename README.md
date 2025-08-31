@@ -25,13 +25,13 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arsh-bakshi-2b50a0324) 
 
 ## 🛠️ Technologies & Tools
-- **Languages**: C++,Python
+- **Languages**: C++,Python,Java
 - **Web Development**: HTML,CSS,JS
 - **Others**: Postman API,MATLAB
 - **DBMS**: MySql
 
 # 💻 Language and Tools:
-![My Skills](https://skillicons.dev/icons?i=vscode,cpp,py,html,css,matlab,postman,mysql)
+![My Skills](https://skillicons.dev/icons?i=vscode,cpp,py,html,css,java,js,matlab,postman,mysql)
 
 # 📊 GitHub Stats:
 
