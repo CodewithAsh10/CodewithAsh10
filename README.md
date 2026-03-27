@@ -37,9 +37,6 @@
 # 📊 GitHub Stats:
 ![](https://samdev-pulse.vercel.app/api/profile?username=CodewithAsh10&theme=catppuccin)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodewithAsh10&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
