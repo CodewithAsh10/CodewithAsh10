@@ -34,6 +34,10 @@
 # 💻 Language and Tools:
 ![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,java,py,html,css,js,matlab,postman,mysql)
 
+<br>
+![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=CodewithAsh10&theme=catppuccin)
+<br> 
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=CodewithAsh10&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
