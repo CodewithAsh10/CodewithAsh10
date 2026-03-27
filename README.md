@@ -34,21 +34,11 @@
 # 💻 Language and Tools:
 ![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,java,py,html,css,js,matlab,postman,mysql)
 
-<br>
-![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=CodewithAsh10&theme=catppuccin)
-<br> 
-
 # 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=CodewithAsh10&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=CodewithAsh10&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodewithAsh10&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-
+![](https://samdev-pulse.vercel.app/api/profile?username=CodewithAsh10&theme=catppuccin)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CodewithAsh10&theme=blue_navy&no-frame=false&no-bg=false&margin-w=4)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=CodewithAsh10&theme=react-dark&hide_border=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
