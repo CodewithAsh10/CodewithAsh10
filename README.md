@@ -33,7 +33,7 @@
 - **Tools**: `VS Code`, `Postman API`, `MATLAB`
 
 # 💻 Language and Tools:
-![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,java,py,flask,html,css,js,git,githubmatlab,postman,mysql)
+![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,java,py,flask,html,css,js,git,github,matlab,postman,mysql)
 
 # 📊 GitHub Stats:
 ![](https://samdev-pulse.vercel.app/api/profile?username=CodewithAsh10&theme=catppuccin)
