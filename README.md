@@ -27,12 +27,13 @@
 ## 🛠️ Technologies & Tools
 
 - **Languages**: `C`, `C++`, `Python`, `Java`
-- **Web Development**: `HTML`, `CSS`, `JavaScript`
+- **Web Development**: `HTML`, `CSS`, `JavaScript`, `Flask` 
 - **Databases**: `MySQL`
+- **Version Control**: `Git`, `GitHub`
 - **Tools**: `VS Code`, `Postman API`, `MATLAB`
 
 # 💻 Language and Tools:
-![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,java,py,html,css,js,matlab,postman,mysql)
+![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,java,py,flask,html,css,js,git,githubmatlab,postman,mysql)
 
 # 📊 GitHub Stats:
 ![](https://samdev-pulse.vercel.app/api/profile?username=CodewithAsh10&theme=catppuccin)
